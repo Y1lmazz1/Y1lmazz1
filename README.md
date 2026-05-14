@@ -55,7 +55,7 @@ Ben **Yılmaz Arslantürk** — backend mimarisi ve fullstack geliştirmeye odak
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 
 </div>
 
@@ -82,19 +82,9 @@ Ben **Yılmaz Arslantürk** — backend mimarisi ve fullstack geliştirmeye odak
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### 🤖 [KobiAI](https://github.com/Y1lmazz1/KobiAI)
-**AI Destekli KOBİ Operasyon Platformu**
 
-KOBİ'ler için Gemini AI ajanı entegre edilmiş tam yığın otomasyon platformu. Ürün, stok, sipariş, kargo ve bildirim yönetimi tek panelden.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-
-</td>
 <td width="50%" valign="top">
 
 ### 🍽️ [RMSPro](https://github.com/Y1lmazz1/RMSPro)
