@@ -16,7 +16,6 @@
 
 Ben **Yılmaz Arslantürk** — backend mimarisi ve fullstack geliştirmeye odaklanmış bir yazılım geliştiriciyim.
 
-- 🔭 **Şu an:** KobiAI — KOBİ'ler için AI destekli operasyon platformu
 - 🌱 **Öğreniyorum:** Dağıtık sistemler, AI agent mimarisi
 - ⚡ **İlgi alanlarım:** Temiz mimari, servis katmanlı tasarım, LLM entegrasyonu
 - 🎯 **Hedef:** Gerçek dünya problemlerine ölçeklenebilir çözümler üretmek
